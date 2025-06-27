@@ -16,6 +16,5 @@ The categories of the penalties against illegal acts on road traffic safety incl
 - 📌 *Commercial vehicle drivers get the maximum: 6 months & ¥2000*
 
 ## 🔁 Repeated Offence (within 1 year)
-- If penalised **twice or more**, then:
-  - **Licence cancelled**
-  - ❌ Cannot drive commercial vehicles for **5 years**
+- **Licence cancelled**
+- ❌ Cannot drive commercial vehicles for **5 years**
