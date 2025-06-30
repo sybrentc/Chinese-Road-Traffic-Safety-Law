@@ -142,8 +142,79 @@
 ## at least 7 years prison
 - & fleeing causes death of victim
 
+# Point system (ii,Arts.23-26,28)
+## No 12-point years
+- This upgrades license validity
+- 6 years -> 10 years -> long-term validity
+## Less than 12 points in 12 months
+- Pay fine to clear points
+- Points carry over to next scoring cycle
+## 12 points in 12 months
+- if within probation period: license revoked
+- detain driver license
+- cannot drive
+- Exam to get license + clear points
+- Refuse exam: license suspended
+## Repeatedly hit 12 points within single 12 months
+- Exam & driving test to get license + clear points
+
+# Point penalties (v)
+## 12 points
+- driving without license
+- drink driving
+- passenger overload exceeds 20% (commercial)
+- fleeing from traffic accident
+- license plate problems
+- forged/altered documents
+- driving against traffic on expressway
+- parking on expressway, commercial vehicle
+- speeding 50% over limit
+- speeding 20% over limit, with passengers/freight
+- driving 4h+ w/o 20m rest (medium-large vehicle carrying passengers/dangerous goods)
+## 6 points
+- driving with suspended license
+- violating traffic signals
+- passenger overload 1-20% (commercial)
+- speeding 20-50% over limit
+- speeding 1-20% of limit, with passengers/freight
+- truck: goods overload 30%, or carries passengers
+- parking on expressway, non-commercial vehicle
+- illegally occupying emergency lane
+- violating expressway low-vis regulations
+- cavelierly transporting large/dangerous goods
+- get driver license through concealment/deception
+- driving 4h+ w/o 20m rest (medium-large vehicle)
+- not yielding to school buses
+## 3 points
+- passenger overload 1-20%
+- speeding 1-20% of limit
+- truck: goods overload 1-30%
+- driving below min speed on expressway
+- driving vehicle not allowed on expressway
+- not staying inside lane
+- not yielding at pedestrian crossing
+- violating warning signs/marks
+- reversing, or failing to overtake/yield
+- illegally towing a trailer
+- fail to use lights + warning sign on breakdown
+- fail to regularly safety inspect vehicle
+## 2 points
+- improper driving/stopping at intersection
+- phone use etc. while driving
+- no helmet / safety belt
+- using opposite lane or jumping a queue
+- failing to ensure safety of school bus
+## 1 point
+- driving without required lights
+- improper overtaking
+- load exceeds length/width/height requirements
+- no inspection or insurance sign on vehicle
+- fail to bring road-worthiness certificate
+- fail to bring driver license
+
 Sources:
 i) road traffic safety law.txt
 ii) regulations.txt
 iii) handling road traffic accidents.txt
 iv) criminal law of China.txt
+v) points.txt
