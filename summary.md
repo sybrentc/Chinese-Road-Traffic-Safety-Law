@@ -60,10 +60,10 @@
 - less than 100 m: 40 kph
 - less than 50 m: 20 kph
 # Highway
-- one lane in same direction: 70 kph
+- one lane in each direction: 70 kph
 - default (no centre line): 40 kph
 # Urban road
-- one lane in same direction: 50 kph
+- one lane in each direction: 50 kph
 - default (no centre line): 30 kph
 # Non-motor vehicle lange
 - 15 kph
@@ -97,6 +97,7 @@
 - Trailers shall not carry people
 ## Other vehicles, inc. large/medium passenger cars
 - No trailer allowed
+* NB: a trailer is legally a motor vehicle (i,Art.119)
 
 # Required while driving (i,Arts.11,51,90,95,98; ii,Arts.13)
 ## Third-party liability insurance
@@ -212,9 +213,77 @@
 - fail to bring road-worthiness certificate
 - fail to bring driver license
 
+# Oncoming traffic on road w/o centre line (ii,Art.48)
+- drive slow, to the right, maintain safety distance
+- if conflict, the side without obstacle has priority
+- narrow slope: if conflict, uphill has priority
+- narrow mountain road: far from mountain has priority
+- meeting traffic at night: use low beam 150m out
+
+# Breakdown (i,Arts.52,68;ii,Art.60)
+## General law
+- turn on emergency lights
+- move vehicle out of traffic
+- set up warning sign 50-100m behind vehicle
+- at night: turn on clearance and rear position lights
+## On the expressway
+- all of the above, but:
+- set up warning sign 150m behind vehicle
+- transfer persons to road shoulder/ emergency lane
+- call police promptly
+- vehicle should be towed
+
+# Stopping and parking (i,Art.56;ii,Arts.33,63,82;vi,Art.33)
+## Parking
+- Park at parking spaces
+- do not park on the pavement
+## Temporary stop
+- do not impede traffic
+- do not stop at no-parking sign
+- do not stop within 50m of special road sections
+- open doors when stopped, w/o hindering traffic
+- stop on the right side of the road
+- driver doesn't leave the vehicle
+- after loading/unloading, vehicle leaves immediately
+- urban buses only stop at the bus stop
+- expressway emergency lane is for emergency only
+
+# License detained (vi,Art.31)
+- drink driving
+- handing vehicle to sb with revoked/detained license
+- speeding 50% over limit
+- driving self-assembled or scrap standard vehicle
+- 12 points in scoring cycle
+
+# Age requirements (vii,Arts.14,65,74;ii,Arts.72,73)
+## 12 years old
+- cycle
+## 16 years old
+- electric/motorised cycle
+- animal-powered vehicle
+## 18 years old
+- small car/ light motorcycle
+- motorcycle
+## 19yo student receiving f/t driving education
+- large bus, heavy-duty tractor trailer
+## 20 years old
+- light tractor trailer
+- bus, truck, tram
+## 22 years old
+- large bus, heavy-duty tractor trailer
+## 63 years old
+- last application for bus, truck, tram, heavy trailer
+- can continue driving these for 3 years with testing
+## 70 years old
+- yearly physical exam required
+- last application for motorcycle, light trailer
+- exchange for small car/ light motorcycle license
+
 Sources:
 i) road traffic safety law.txt
 ii) regulations.txt
 iii) handling road traffic accidents.txt
 iv) criminal law of China.txt
 v) points.txt
+vi) handling safety violations.txt
+vii) application and use of driver license.txt
