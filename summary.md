@@ -279,6 +279,26 @@
 - last application for motorcycle, light trailer
 - exchange for small car/ light motorcycle license
 
+# Highhway signs
+- National is red G (the national colour of China)
+- Provincial is yellow S (yellow river)
+- County is white X (small white rice grains)
+- Rural is white Y
+
+# Vehicle inspection (ii,Art.16;viii,Art.62)
+......---------===== micro/small
+----------========== medium/large
+-----=============== commercial
+==================== school bus
+One character is one year
+. means once per 24m
+- means once per 12m
+= means once per 6m
+....---------------- motorcycles
+-------------------- tractors/other
+
+
+
 Sources:
 i) road traffic safety law.txt
 ii) regulations.txt
@@ -287,3 +307,4 @@ iv) criminal law of China.txt
 v) points.txt
 vi) handling safety violations.txt
 vii) application and use of driver license.txt
+viii) motor vehicle registration regulations.txt
