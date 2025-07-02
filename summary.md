@@ -15,20 +15,23 @@
 
 ********
 
-# Alcohol Violations (i,Art.91)
+# Alcohol Violations (i,Art.91,vii,Arts.15,18)
 ## Not Drunk
 - Driving licence suspended for 1–3 months
 - Fine of 200–500 yuan
+- if repeated: can't drive medium/big vehicles
 - If commercial vehicle: 3 months & 500 yuan
 ## Drunk
 - Held until sober
 - Detained up to 15 days
 - Driving licence suspended for 3–6 months
 - Fine of 500–2000 yuan
+- Can't drive medium/big vehicles
 - If commercial vehicle: 6 months & 2000 yuan
 ## Repeat offence within 1 year
-- Licence cancelled
-- Cannot drive commercial vehicles for 5 years
+- Licence cancelled/revoked
+- Cannot drive for 5y
+- Commercial and drunk: cannot drive for 10y
 
 # Overloading Violations (i,Art.92)
 ## Highway passenger transport
@@ -297,7 +300,20 @@ One character is one year
 ....---------------- motorcycles
 -------------------- tractors/other
 
-
+# Illegaly obtained licence (vii,Art.93)
+## At application stage
+- Fine up to 500 yuan
+- Cannot re-apply for 1 year
+## At examination stage
+- Fine up to 2000 yuan
+- Cannot re-apply for 1 year
+## Obtained licence already
+- Revoke licence
+- Fine up to 2000 yuan
+- Cannot re-apply for 3 years
+## If any of the above for economic benefit
+- Fine 3-5x the illegal income
+- But no more than 100.000 yuan
 
 Sources:
 i) road traffic safety law.txt
