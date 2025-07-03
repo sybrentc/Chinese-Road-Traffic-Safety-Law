@@ -48,27 +48,27 @@
 ## Expressway
 - max limit: 120 kph
 - min limit: 60 kph
-### Two lanes
-- default left lane minimum: 100 kph
 ### Three or more lanes
 - default left lane minimum: 110 kph
 - default middle lane minimum: 90 kph
-### Speed limit by vehicle
-- small passenger car: 120 kph
-- other motor vehicles: 100 kph
-- motorcycles: 80 kph
-- vehicle with max speed below 70 kph may not enter
+### Two lanes
+- default left lane minimum: 100 kph
 ### Low visibility
 - less than 200 m: 60 kph
 - less than 100 m: 40 kph
 - less than 50 m: 20 kph
+### Speed limit by vehicle
+- small passenger car: 120 kph
+- other motor vehicles: 100 kph
+- motorcycles: 80 kph
+- vehicle w/ max speed <70 kph may not enter
 # Highway
 - one lane in each direction: 70 kph
 - default (no centre line): 40 kph
 # Urban road
 - one lane in each direction: 50 kph
 - default (no centre line): 30 kph
-# Non-motor vehicle lange
+# Non-motor vehicle lane
 - 15 kph
 # Non-standard conditions (increased risk)
 - motor vehicle: 30 kph
@@ -314,6 +314,46 @@ One character is one year
 ## If any of the above for economic benefit
 - Fine 3-5x the illegal income
 - But no more than 100.000 yuan
+
+# Licence application ban periods (vii,Art.15)
+## banned for 3 years if
+- used drugs or rehab
+- licence test fraud
+- licence revoked (default case)
+## banned for 5 years if
+- licence revoked for drink driving
+- licence revoked for dangerous driving
+## banned for 10 years if
+- licence revoked for drunk driving (commerc.)
+- licence revoked for major traffic accident
+## banned for life if
+- disease/illness hinders safe driving
+- fled after criminal traffic accident
+- traffic accident due to drink driving
+- traffic accident without driver licence
+
+# Self-assembled motor vehicle (i,Art.100)
+- vehicle discarded
+## And, if driving it
+- fine of 200-2000 yuan
+- licence revoked
+## And, if selling it
+- fine equal to sales amount
+
+# Adding driving type to licence (vii,Art.17)
+- shall not have 12 points in past 2y
+## If adding light trailer
+- small car licence for 1y
+## If adding medium car
+- small car, bus, truck for 2y
+## If adding large trailer
+- medium car, truck for 2y
+- large car more than 1y
+## If adding large car
+- bus of medium car for 2y
+- large truck for 3y
+- large trailer for 1y
+- shall not have 12 points in past 3y
 
 Sources:
 i) road traffic safety law.txt
